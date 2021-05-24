@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**huandersonlima/huandersonlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Huanderson Lima
+- 🗣 You can call me Mateus
+- 📍 Living in Recife, 🇧🇷   
+- 💻 Computer Science Student 
+- 👨‍💻 Currently learning JS, Angular and PHP
+- ❤ Technology
 
-Here are some ideas to get you started:
+📫 Reach me out 👇🏼
+ 
+[![Twitter Badge](https://img.shields.io/badge/-@m4ttxl-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/m4ttxl)](https://twitter.com/m4ttxl) 
+[![Linkedin Badge](https://img.shields.io/badge/-Huanderson%20Lima-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-lima-dev/)](https://www.linkedin.com/in/mateus-lima-dev/) 
+[![Gmail Badge](https://img.shields.io/badge/-matteusdevp@gmail.com-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matteusdevp@gmail.com)](mailto:matteusdevp@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
