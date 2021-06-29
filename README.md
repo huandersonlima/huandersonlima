@@ -1,7 +1,7 @@
 ### Hey 👋
 
 - My name is Huanderson Lima
-- 🗣 You can call me Mateus
+- 🗣 Everyone usually call me Mateus
 - 📍 Living in Recife, :brazil:  
 - 💻 Computer Science Student 
 - 👨‍💻 Currently learning JS, Angular and PHP
