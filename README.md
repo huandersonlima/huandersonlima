@@ -1,8 +1,7 @@
 ### Hey! I'm Huaderson Lima 👋
 
-- 📍 Living in Recife, :brazil:  
+- 📍 Recife, :brazil:  
 - 💻 Computer Scientist
-- ❤ Technology
 
 <div>
  <a href="https://github.com/huandersonlima/">
